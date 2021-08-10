@@ -7,6 +7,7 @@ K-Means is the most popular and well-known clustering algorithm, and it tries to
 
 The “K” refers to the number of clusters (groups) we expect to find in a dataset.
 The “Means” refers to the average distance of data to each cluster center, also known as the centroid, which we are trying to minimize.
+
 It is an iterative approach:
 
 Place k random centroids for the initial clusters.
